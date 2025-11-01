@@ -1,0 +1,13 @@
+{
+  "EMAIL_ADDRESS": "sonusunitha70@gmail.com",
+  "EMAIL_PASSWORD": "xxxxx xxxx xxxx xxx",
+  "WHATSAPP_CONTACTS": {
+    "sunitha": "+916304xxxxx",
+    "nandu": "+917xxxxxxxx7",
+    "puppy": "+916xxxxxx"
+  },
+  "EMAIL_CONTACTS": {
+    "sonu": "example@gmail.com",
+    "puppy": "example17@gmail.com"
+  }
+}

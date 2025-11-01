@@ -1,0 +1,17 @@
+speechrecognition
+pyaudio
+pyttsx3
+requests
+setuptools>=65
+wikipedia
+playsound==1.2.2
+rich
+openai
+googletrans
+pyjokes
+pywhatkit  # for WhatsApp & YouTube
+python-dotenv
+openai-whisper
+sounddevice
+numpy
+soundfile
